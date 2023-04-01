@@ -5,6 +5,7 @@ This is a movie search application using the free OMDb (Open Movie Database) API
 The search results will contain the title, type, year and a link to IMDb, the commercial database of all film productions.
 
 If the results exceed 150, the lst boxes contain only the first 150 movies. The results are added onto a public static class and the public static class is what gets exported.
+# In action
 ![image](https://user-images.githubusercontent.com/51274827/229267382-aaa4250d-e430-484d-8654-0927595653f7.png)
 
 ![image](https://user-images.githubusercontent.com/51274827/229267508-19b09689-93f3-4f21-bceb-177324b9d086.png)
