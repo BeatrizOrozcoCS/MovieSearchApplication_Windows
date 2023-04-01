@@ -25,7 +25,7 @@ namespace MovieSearchApplication
             const int RESULT_PER_PAGE = 10;
             const int PAGE_LIMIT = 15;
             HttpClient client = new HttpClient();
-            string url = "https://www.omdbapi.com/?s=" + searchTerm + "&apikey=71ac85d0&page=" + page.ToString();
+            string url = "https://www.omdbapi.com/?s=" + searchTerm + "&apikey=GETYOUROWNAPIKEY&page=" + page.ToString();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             client.BaseAddress = new Uri(url);
             HttpResponseMessage response = client.GetAsync(url).Result;
@@ -68,7 +68,7 @@ namespace MovieSearchApplication
                 {
                     txtPageNum.Text = i.ToString() +"/"+page.ToString();
                     client = new HttpClient();
-                    url = "https://www.omdbapi.com/?s=" + searchTerm + "&apikey=71ac85d0&page=" + i.ToString();
+                    url = "https://www.omdbapi.com/?s=" + searchTerm + "&apikey=GETYOUROWNAPIKEY&page=" + i.ToString();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                     client.BaseAddress = new Uri(url);
                     response = client.GetAsync(url).Result;
