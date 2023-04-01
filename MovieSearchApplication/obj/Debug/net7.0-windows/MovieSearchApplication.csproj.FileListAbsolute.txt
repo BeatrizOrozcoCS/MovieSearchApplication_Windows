@@ -1,0 +1,17 @@
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\bin\Debug\net7.0-windows\MovieSearchApplication.exe
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\bin\Debug\net7.0-windows\MovieSearchApplication.deps.json
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\bin\Debug\net7.0-windows\MovieSearchApplication.runtimeconfig.json
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\bin\Debug\net7.0-windows\MovieSearchApplication.dll
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\bin\Debug\net7.0-windows\MovieSearchApplication.pdb
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.csproj.AssemblyReference.cache
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.csproj.GenerateResource.cache
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.AssemblyInfoInputs.cache
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.AssemblyInfo.cs
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.dll
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\refint\MovieSearchApplication.dll
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.pdb
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.genruntimeconfig.cache
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\ref\MovieSearchApplication.dll
+C:\Users\Orozc\OneDrive\My Documents\Projects\Movie\MovieSearchApplication\obj\Debug\net7.0-windows\MovieSearchApplication.Form1.resources
