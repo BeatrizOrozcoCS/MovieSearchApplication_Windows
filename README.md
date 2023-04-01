@@ -11,5 +11,5 @@ The list boxes have an item limit of 120. The results are added onto a public st
 
 ![image](https://user-images.githubusercontent.com/51274827/229267522-d4e1dfee-1288-4377-a640-c0b78b3201ff.png)
 
-#Error Checking
+# Error Checking
 ![image](https://user-images.githubusercontent.com/51274827/229267402-90576552-b0e6-4283-abe9-4d8468422580.png)
